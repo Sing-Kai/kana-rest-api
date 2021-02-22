@@ -1,0 +1,69 @@
+[
+  {
+    "questionid": 1,
+
+    "question": {
+      "id": 1,
+      "char": "あ"
+    },
+
+    "answers": [  {
+      "id": 6,
+      "char": "か"
+    },
+    {
+      "id": 1,
+      "char": "あ"
+    },
+    {
+      "id": 8,
+      "char": "く"
+    }]
+
+  },
+  {
+    "questionid": 2,
+
+    "question": {
+      "id": 6,
+      "char": "か"
+    },
+
+    "answers": [  {
+      "id": 6,
+      "char": "か"
+    },
+    {
+      "id": 1,
+      "char": "あ"
+    },
+    {
+      "id": 8,
+      "char": "く"
+    }]
+
+  },
+  {
+    "questionid": 3,
+
+    "question": {
+      "id": 8,
+      "char": "く"
+    },
+
+    "answers": [  {
+      "id": 6,
+      "char": "か"
+    },
+    {
+      "id": 1,
+      "char": "あ"
+    },
+    {
+      "id": 8,
+      "char": "く"
+    }]
+
+  }
+
+]
