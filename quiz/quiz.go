@@ -4,7 +4,10 @@ import (
 	"encoding/json"
 	"io/ioutil"
 	"math/rand"
+	"net/http"
 	"time"
+
+	"github.com/gin-gonic/gin"
 )
 
 type Quiz struct {
@@ -14,17 +17,24 @@ type Quiz struct {
 
 type Kana struct {
 	Id        int    `json:"id"`
-	Character string `json:"character"`
+	Hiri      string `json:"hiri"`
+	Kata      string `json:"kata"`
+	Syllabary string `json:"syllabary"`
 }
 
-func GetQuiz() Quiz {
-
+func HandleKanaQuiz(ctx *gin.Context) {
 	numOfAnswers := 5
-	kanaSlice := ReadFile()
+	q := getQuiz(numOfAnswers)
+	ctx.JSON(http.StatusOK, q)
+}
 
+func getQuiz(ansNum int) Quiz {
+
+	kanaSlice := readFile()
 	length := len(kanaSlice)
+	rand.Seed(time.Now().UnixNano())
 	question := kanaSlice[rand.Intn(length)]
-	answerIds := getAnswerIds(numOfAnswers, question.Id, length)
+	answerIds := getAnswerIds(ansNum, question.Id, length)
 
 	answers := make([]Kana, 0)
 
@@ -64,9 +74,9 @@ func getAnswerIds(total, id, length int) []int {
 	return ans
 }
 
-func ReadFile() []Kana {
+func readFile() []Kana {
 
-	file, _ := ioutil.ReadFile("./hirigana.json")
+	file, _ := ioutil.ReadFile("./kana.json")
 	data := make([]Kana, 0)
 	_ = json.Unmarshal(file, &data)
 

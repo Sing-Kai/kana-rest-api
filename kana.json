@@ -1,0 +1,428 @@
+[
+  {
+   "id": 1,
+   "hiri": "あ",
+   "kata":"",
+   "syllabary" : "a"
+  },
+  {
+   "id": 2,
+   "hiri": "い",
+   "kata":"",
+   "syllabary" : "i"
+  },
+  {
+   "id": 3,
+   "hiri": "う",
+   "kata":"",
+   "syllabary" : "u"
+  },
+  {
+   "id": 4,
+   "hiri": "え",
+   "kata":"",
+   "syllabary" : "e"
+  },
+  {
+   "id": 5,
+   "hiri": "お",
+   "kata":"",
+   "syllabary" : "o"
+  },
+  {
+   "id": 6,
+   "hiri": "か",
+   "kata":"",
+   "syllabary" : "ka"
+  },
+  {
+   "id": 7,
+   "hiri": "き",
+   "kata":"",
+   "syllabary" : "ki"
+  },
+  {
+   "id": 8,
+   "hiri": "く",
+   "kata":"",
+   "syllabary" : "ku"
+  },
+  {
+   "id": 9,
+   "hiri": "け",
+   "kata":"",
+   "syllabary" : "ke"
+  },
+  {
+   "id": 10,
+   "hiri": "こ",
+   "kata":"",
+   "syllabary" : "ko"
+  },
+  {
+   "id": 11,
+   "hiri": "が",
+   "kata":"",
+   "syllabary" : "ga"
+  },
+  {
+   "id": 12,
+   "hiri": "ぎ",
+   "kata":"",
+   "syllabary" : "gi"
+  },
+  {
+   "id": 13,
+   "hiri": "ぐ",
+   "kata":"",
+   "syllabary" : "gu"
+  },
+  {
+   "id": 14,
+   "hiri": "げ",
+   "kata":"",
+   "syllabary" : "ge"
+  },
+  {
+   "id": 15,
+   "hiri": "ご",
+   "kata":"",
+   "syllabary" : "go"
+  },
+  {
+   "id": 16,
+   "hiri": "さ",
+   "kata":"",
+   "syllabary" : "sa"
+  },
+  {
+   "id": 17,
+   "hiri": "し",
+   "kata":"",
+   "syllabary" : "shi"
+  },
+  {
+   "id": 18,
+   "hiri": "す",
+   "kata":"",
+   "syllabary" : "su"
+  },
+  {
+   "id": 19,
+   "hiri": "せ",
+   "kata":"",
+   "syllabary" : "se"
+  },
+  {
+   "id": 20,
+   "hiri": "そ",
+   "kata":"",
+   "syllabary" : "so"
+  },
+  {
+   "id": 21,
+   "hiri": "ざ",
+   "kata":"",
+   "syllabary" : "za"
+  },
+  {
+   "id": 22,
+   "hiri": "じ",
+   "kata":"",
+   "syllabary" : "ji"
+  },
+  {
+   "id": 23,
+   "hiri": "ず",
+   "kata":"",
+   "syllabary" : "zu"
+  },
+  {
+   "id": 24,
+   "hiri": "ぜ",
+   "kata":"",
+   "syllabary" : "ze"
+  },
+  {
+   "id": 25,
+   "hiri": "ぞ",
+   "kata":"",
+   "syllabary" : "zo"
+  },
+  {
+   "id": 26,
+   "hiri": "た",
+   "kata":"",
+   "syllabary" : "ta"
+  },
+  {
+   "id": 27,
+   "hiri": "ち",
+   "kata":"",
+   "syllabary" : "chi"
+  },
+  {
+   "id": 28,
+   "hiri": "つ",
+   "kata":"",
+   "syllabary" : "tsu"
+  },
+  {
+   "id": 29,
+   "hiri": "て",
+   "kata":"",
+   "syllabary" : "te"
+  },
+  {
+   "id": 30,
+   "hiri": "と",
+   "kata":"",
+   "syllabary" : "to"
+  },
+  {
+   "id": 31,
+   "hiri": "だ",
+   "kata":"",
+   "syllabary" : "da"
+  },
+  {
+   "id": 32,
+   "hiri": "ぢ",
+   "kata":"",
+   "syllabary" : "ji"
+  },
+  {
+   "id": 33,
+   "hiri": "づ",
+   "kata":"",
+   "syllabary" : "dzu"
+  },
+  {
+   "id": 34,
+   "hiri": "で",
+   "kata":"",
+   "syllabary" : "de"
+  },
+  {
+   "id": 35,
+   "hiri": "ど",
+   "kata":"",
+   "syllabary" : "do"
+  },
+  {
+   "id": 36,
+   "hiri": "な",
+   "kata":"",
+   "syllabary" : "na"
+  },
+  {
+   "id": 37,
+   "hiri": "に",
+   "kata":"",
+   "syllabary" : "ni"
+  },
+  {
+   "id": 38,
+   "hiri": "ぬ",
+   "kata":"",
+   "syllabary" : "nu"
+  },
+  {
+   "id": 39,
+   "hiri": "ね",
+   "kata":"",
+   "syllabary" : "ne"
+  },
+  {
+   "id": 40,
+   "hiri": "の",
+   "kata":"",
+   "syllabary" : "no"
+  },
+  {
+   "id": 41,
+   "hiri": "は",
+   "kata":"",
+   "syllabary" : "ha"
+  },
+  {
+   "id": 42,
+   "hiri": "ひ",
+   "kata":"",
+   "syllabary" : "hi"
+  },
+  {
+   "id": 43,
+   "hiri": "ふ",
+   "kata":"",
+   "syllabary" : "fu"
+  },
+  {
+   "id": 44,
+   "hiri": "へ",
+   "kata":"",
+   "syllabary" : "he"
+  },
+  {
+   "id": 45,
+   "hiri": "ほ",
+   "kata":"",
+   "syllabary" : "ho"
+  },
+  {
+   "id": 46,
+   "hiri": "ば",
+   "kata":"",
+   "syllabary" : "ba"
+  },
+  {
+   "id": 47,
+   "hiri": "び",
+   "kata":"",
+   "syllabary" : "bi"
+  },
+  {
+   "id": 48,
+   "hiri": "ぶ",
+   "kata":"",
+   "syllabary" : "bu"
+  },
+  {
+   "id": 49,
+   "hiri": "べ",
+   "kata":"",
+   "syllabary" : "be"
+  },
+  {
+   "id": 50,
+   "hiri": "ぼ",
+   "kata":"",
+   "syllabary" : "bo"
+  },
+  {
+   "id": 51,
+   "hiri": "ぱ",   
+   "kata":"",
+   "syllabary" : "pa"
+  },
+  {
+   "id": 52,
+   "hiri": "ぴ",
+   "kata":"",
+   "syllabary" : "pi"
+  },
+  {
+   "id": 53,
+   "hiri": "ぷ",
+   "kata":"",
+   "syllabary" : "pu"
+  },
+  {
+   "id": 54,
+   "hiri": "ぺ",
+   "kata":"",
+   "syllabary" : "pe"
+  },
+  {
+   "id": 55,
+   "hiri": "ぽ",
+   "kata":"",
+   "syllabary" : "po"
+  },
+  {
+   "id": 56,
+   "hiri": "ま",
+   "kata":"",
+   "syllabary" : "ma"
+  },
+  {
+   "id": 57,
+   "hiri": "み",
+   "kata":"",
+   "syllabary" : "mi"
+  },
+  {
+   "id": 58,
+   "hiri": "む",
+   "kata":"",
+   "syllabary" : "mu"
+  },
+  {
+   "id": 59,
+   "hiri": "め",
+   "kata":"",
+   "syllabary" : "me"
+  },
+  {
+   "id": 60,
+   "hiri": "も",
+   "kata":"",
+   "syllabary" : "mo"
+  },
+  {
+   "id": 61,
+   "hiri": "や",
+   "kata":"",
+   "syllabary" : "ya"
+  },
+  {
+   "id": 62,
+   "hiri": "ゆ",
+   "kata":"",
+   "syllabary" : "yu"
+  },
+  {
+   "id": 63,
+   "hiri": "よ",
+   "kata":"",
+   "syllabary" : "yo"
+  },
+  {
+   "id": 64,
+   "hiri": "ら",
+   "kata":"",
+   "syllabary" : "ra"
+  },
+  {
+   "id": 65,
+   "hiri": "り",
+   "kata":"",
+   "syllabary" : "ri"
+  },
+  {
+   "id": 66,
+   "hiri": "る",
+   "kata":"",
+   "syllabary" : "ru"
+  },
+  {
+   "id": 67,
+   "hiri": "れ",
+   "kata":"",
+   "syllabary" : "re"
+  },
+  {
+   "id": 68,
+   "hiri": "ろ",
+   "kata":"",
+   "syllabary" : "ro"
+  },
+  {
+   "id": 69,
+   "hiri": "わ",
+   "kata":"",
+   "syllabary" : "wa"
+  },
+  {
+   "id": 70,
+   "hiri": "を",
+   "kata":"",
+   "syllabary" : "wo"
+  },
+  {
+    "id": 71,
+    "hiri": "ん",
+    "kata":"",
+    "syllabary" : "n"
+   }
+]
