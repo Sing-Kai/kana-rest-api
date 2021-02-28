@@ -12,4 +12,8 @@ GET http://localhost:8080/healthy
 
 ###
 GET http://localhost:8080/quiz
+
+
+###
+GET http://localhost:8080/assets/audio/1
  
